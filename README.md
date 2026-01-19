@@ -1,2 +1,5 @@
-# github-collaboration-playbook
-A new public repository named github-collaboration-playbook is created. This repository will be used to practice and document GitHub collaboration workflows.
+# 📘 GitHub Collaboration Playbook
+
+This repository is created to learn GitHub collaboration step by step.
+It focuses on real workflows such as issues, pull requests, reviews,
+and merges used in real-world projects.
