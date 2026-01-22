@@ -4,4 +4,4 @@ This repository is created to learn GitHub collaboration step by step.
 It focuses on real workflows such as issues, pull requests, reviews,
 and merges used in real-world projects.
 
-This reposotory is made for learn GitHub.
+This repository is made to learn GitHub.
